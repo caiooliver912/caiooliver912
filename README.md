@@ -2,7 +2,7 @@
 <div align="center">
 
 🛡️
-![WE ARE THE FIREWALL](./we-are-the-firewall.png)
+![WE ARE THE FIREWALL](./we_are_the_firewall.png)
 🛡️
 
 ### Defensor: Caio Oliveira
