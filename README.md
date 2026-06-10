@@ -25,10 +25,10 @@
 $ cat about.txt
 
   Nome    : Caio Oliveira
-  Idade   : 18 anos
+  Idade   : 19 anos
   Curso   : Ciência da Computação
   Foco    : Cybersecurity — Blue Team
-  Status  : Estudante | Aprendendo na prática
+  Status  : Estudante | Defendendo 
 
   Apaixonado por defender sistemas, entender ameaças
   e investigar.
@@ -78,17 +78,6 @@ Meu interesse principal é na **segurança defensiva** — monitoramento, detec�
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caiooliver912&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
-
----
-
-## 🎯 Atualmente estudando
-
-- [ ] TryHackMe — SOC Level 1 Path
-- [ ] Fundamentos de SIEM (Splunk / Elastic)
-- [ ] Análise de tráfego com Wireshark
-- [ ] Certificação CompTIA Security+
-
----
 
 ## 📬 Contato
 
