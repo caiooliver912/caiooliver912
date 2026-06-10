@@ -57,6 +57,7 @@ Meu interesse principal é na **segurança defensiva** — monitoramento, detec�
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 
 **Sistemas & Ambientes**
 
@@ -69,3 +70,5 @@ Meu interesse principal é na **segurança defensiva** — monitoramento, detec�
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata-F36F21?style=flat-square&logoColor=white)
+![Snort](https://img.shields.io/badge/Snort-CC0000?style=flat-square&logoColor=white)
