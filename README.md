@@ -45,10 +45,6 @@ Meu interesse principal é na **segurança defensiva** — monitoramento, detec�
 - 🧱 **Fundamentos de rede** — protocolos, firewalls, análise de tráfego
 - 🧩 **CTFs e labs práticos** — TryHackMe, Let's Defend e Blue Team Labs
 
-> *"Para defender bem, primeiro precisa entender como o adversário pensa."*
-
----
-
 ## 🛠️ Tecnologias & Ferramentas
 
 **Linguagens**
