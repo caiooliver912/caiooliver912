@@ -68,25 +68,3 @@ Meu interesse principal é na **segurança defensiva** — monitoramento, detec�
 
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=white)
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caiooliver912&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caiooliver912&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
-## 📬 Contato
-
-Quer trocar ideia sobre segurança, Blue Team ou computação em geral?
-
-[![LinkedIn](https://img.shields.io/badge/Me_chama_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/caio-oliveira912)
-
----
-
-<div align="center">
-  <sub>Construindo uma carreira em Cybersecurity, um commit de cada vez. 🔐</sub>
-</div>
