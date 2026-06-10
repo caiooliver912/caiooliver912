@@ -40,7 +40,7 @@ $ cat about.txt
 
 Meu interesse principal é na **segurança defensiva** — monitoramento, detecção de ameaças, resposta a incidentes, hardening e . Estou construindo base sólida em:
 
-- 🔍 **SIEM & Análise de Logs** — correlação de eventos, detecção de anomalias
+- 🔍 **SIEM & Análise de Logs** — correlação de eventos, detecção de ameaças
 - 🔒 **Hardening de sistemas** — Linux, redes e configurações seguras
 - 🧱 **Fundamentos de rede** — protocolos, firewalls, análise de tráfego
 - 🧩 **CTFs e labs práticos** — TryHackMe, Let's Defend e Blue Team Labs
