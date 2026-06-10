@@ -1,7 +1,9 @@
 
 <div align="center">
 
-![WE ARE THE FIREWALL](./we_are_the_firewall.png)
+<p align="center">
+  <img src="./we_are_the_firewall.png" alt="WE ARE THE FIREWALL" width="800">
+</p>
 
 ### Defensor: Caio Oliveira
 
