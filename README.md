@@ -31,19 +31,19 @@ $ cat about.txt
   Status  : Estudante | Aprendendo na prática
 
   Apaixonado por defender sistemas, entender ameaças
-  e construir soluções que realmente funcionam.
+  e investigar.
 ```
 
 ---
 
 ## 🛡️ Área de foco — Blue Team
 
-Meu interesse principal é na **defesa de sistemas** — monitoramento, detecção de ameaças, resposta a incidentes e hardening. Estou construindo base sólida em:
+Meu interesse principal é na **segurança defensiva** — monitoramento, detecção de ameaças, resposta a incidentes, hardening e . Estou construindo base sólida em:
 
-- 🔍 **SIEM & Log Analysis** — correlação de eventos, detecção de anomalias
+- 🔍 **SIEM & Análise de Logs** — correlação de eventos, detecção de anomalias
 - 🔒 **Hardening de sistemas** — Linux, redes e configurações seguras
 - 🧱 **Fundamentos de rede** — protocolos, firewalls, análise de tráfego
-- 🧩 **CTFs e labs práticos** — TryHackMe, Hack The Box (Blue Team Path)
+- 🧩 **CTFs e labs práticos** — TryHackMe, Let's Defend e Blue Team Labs
 
 > *"Para defender bem, primeiro precisa entender como o adversário pensa."*
 
@@ -55,7 +55,6 @@ Meu interesse principal é na **defesa de sistemas** — monitoramento, detecç�
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
@@ -69,23 +68,6 @@ Meu interesse principal é na **defesa de sistemas** — monitoramento, detecç�
 
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=white)
-
----
-
-## 📂 Projetos
-
-| Projeto | Descrição | Stack |
-|--------|-----------|-------|
-| [projeto_app_musica](https://github.com/caiooliver912/projeto_app_musica) | Aplicativo de música | Python |
-| [jogo-da-cobra-no-terminal](https://github.com/caiooliver912/jogo-da-cobra-no-terminal) | Snake sem biblioteca gráfica, puro terminal | C |
-| [jogo-da-velha](https://github.com/caiooliver912/jogo-da-velha) | Jogo da velha no terminal | C |
-| [jogo-rsp-faculdade](https://github.com/caiooliver912/jogo-rsp-faculdade) | Pedra papel tesoura com interface | Python + Tkinter |
-| [banco-java-poo](https://github.com/caiooliver912/banco-java-poo) | Sistema bancário com POO | Java |
-| [sensor-te-rico-ph](https://github.com/caiooliver912/sensor-te-rico-ph) | Sensor teórico de medição de PH | C# |
-
-> ⚠️ *O repositório está crescendo. Em breve: projetos focados em segurança.*
-
----
 
 ## 📈 GitHub Stats
 
